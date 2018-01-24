@@ -1,4 +1,4 @@
-W# hello-world
+hello-world
 Tutorial to teach me the ropes of Github
 
 Writing a bit about myself as instructed
